@@ -1,16 +1,5 @@
-# Luciamt
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Presentación del Proyecto</title>
-</head>
-<body>
+<p align="center" width="300">
+¡Hola 👋! Soy lucia 👨🏻‍💻</h3>
+</p>
 
-    <h1>Presentación del Proyecto</h1>
-    <img src="ruta/a/tu/imagen.jpg" alt="Descripción de la imagen">
-    <p>Descripción breve del proyecto y su objetivo.</p>
-
-</body>
-</html>
+ <img align="center" src="https://img.freepik.com/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_23-2150010144.jpg" height="23px" width="23px" />
