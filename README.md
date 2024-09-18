@@ -17,7 +17,3 @@
   <img width='50%' src='https://img.youtube.com/vi/2CXDzkPxolI/mqdefault.jpg' alt='¡Todos mis cursos para Aprender Programación sin pagar nada!'aling="center" />
 </a>
 
-<style>
- 
-  
-</style>
