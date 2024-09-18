@@ -15,7 +15,7 @@
 </p>
 <p>
  <a href="https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk" autoplay>
-  Tu navegador no admite el elemento <code>video</code>.
+<code>video</code>.
 </a>
 
 </p>
