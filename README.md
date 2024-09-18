@@ -2,8 +2,8 @@
 ¡Hola 👋! Soy lucia 👨🏻‍💻</h3>
 </p>
 <p>
- Tecnologias que Domino: Java, JavaScript, Node.js, PHP, Wordpress, Boostrap, HTML, CSS.
- Actualmente estudio 2 DAM (Desarrollo de Aplicaciones Multiplataforma).
+ Tecnologias que Domino: Java, JavaScript, Node.js, PHP, Wordpress, Boostrap, HTML, CSS.<br>
+ Actualmente estudio 2 DAM (Desarrollo de Aplicaciones Multiplataforma). <br>
  Y tambien cuento con el Grado Superior de Desarollo de Aplicaciones Web (DAW).
 </p>
 <p>
