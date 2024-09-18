@@ -14,5 +14,10 @@
  <a href="https://midu.dev/">Enlace 1</a>
 </p>
 <a href='https://youtu.be/2CXDzkPxolI' target='_blank'>
-  <img width='50%' src='https://img.youtube.com/vi/2CXDzkPxolI/mqdefault.jpg' alt='¡Todos mis cursos para Aprender Programación sin pagar nada!' />
+  <img width='50%' src='https://img.youtube.com/vi/2CXDzkPxolI/mqdefault.jpg' alt='¡Todos mis cursos para Aprender Programación sin pagar nada!'aling="center" />
 </a>
+
+<style>
+ 
+  
+</style>
