@@ -14,8 +14,8 @@
  <a href="https://midu.dev/">Enlace 1</a>
 </p>
 <p>
- <video src="https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk" autoplay>
+ <a href="https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk" autoplay>
   Tu navegador no admite el elemento <code>video</code>.
-</video>
+</a>
 
 </p>
